@@ -1,5 +1,5 @@
 # MOA-IA
-Modelos Organizacionales Asistidos por IA
+Metodología Ontosemántica de Aprendizaje Asistida por IA
 💡 Asistencia conceptual, metodológica y técnica por ChatGPT (OpenAI) en colaboración con el equipo de CyTA. La integración de IA se realiza bajo los principios de transparencia, colaboración y acceso abierto, en el marco de la iniciativa CyberCyTA.
 
 
